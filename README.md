@@ -1,2 +1,2 @@
 # gcn-nlp-test
-Temporary testings of NLP project for GCN
+Temporary directory of NLP project for GCN
